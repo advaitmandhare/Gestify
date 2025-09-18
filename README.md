@@ -33,7 +33,7 @@ This app requires the following Python packages:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/gestify.git
+git clone https://github.com/advaitmandhare/Gestify.git
 cd gestify
 ````
 
@@ -81,15 +81,6 @@ gestify/
 ├── app.py                 # Main Streamlit application
 └── README.md              # Project documentation (this file)
 ```
-
----
-
-## ✅ Optional Enhancements
-
-* Add plain text input alongside URL option
-* Improve sentiment detection with `vaderSentiment`
-* Enable export of summaries as PDF or CSV
-* Add user login and history feature
 
 ---
 
